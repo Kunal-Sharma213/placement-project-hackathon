@@ -34,6 +34,14 @@ const Header = () => {
 						</Link>
 					</li>
 					<li>
+						<div
+							className="main-nav-link"
+							style={{ color: "#ff7e0e", fontWeight: "bold" }}
+						>
+							Login
+						</div>
+					</li>
+					<li>
 						<Link to="/" className="btn">
 							<p>Join Us</p>
 						</Link>

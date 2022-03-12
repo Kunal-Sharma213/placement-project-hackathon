@@ -32,7 +32,7 @@
 	text-decoration: none;
 	color: #333;
 	letter-spacing: 0.6px;
-	font-weight: 500;
+	font-weight: bold;
 	font-size: 1rem;
 	transition: all 0.3s;
 }
@@ -59,7 +59,7 @@
 	background-color: #ff7e0e;
 	color: #333;
 	text-decoration: none;
-	font-weight: 500;
+	font-weight: bold;
 	display: inline-block;
 	border-radius: 500px;
 	height: 2rem;
@@ -67,6 +67,7 @@
 	border: 1px solid #ff941f;
 	padding: 5px;
 	transition: all 0.3s;
+	text-align: center;
 }
 
 .btn:hover,
